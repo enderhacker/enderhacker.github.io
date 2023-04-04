@@ -2,7 +2,38 @@
       margin: auto;
   }
   /*Section 1 Styles: Modal and Logo */
-  
+
+.BUTTON_QUP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 40px;
+   font-weight: 600;
+   padding: 31px;
+   background-color: #3D94F6;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 0 1px 12px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_QUP:hover {
+   background: #1E62D0;
+   border: outset #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+
   .section1 {
       background-image: url("../assets/backgrounds/landing.jpg");
       background-size: cover;
