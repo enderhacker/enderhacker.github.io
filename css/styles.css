@@ -3,6 +3,11 @@
   }
   /*Section 1 Styles: Modal and Logo */
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 .BUTTON_QUP {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
