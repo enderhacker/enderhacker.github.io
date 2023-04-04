@@ -5,6 +5,8 @@
 
 .responsive {
   width: 100%;
+  max-height: 250px;
+  max-width: 250px;
   height: auto;
 }
 
