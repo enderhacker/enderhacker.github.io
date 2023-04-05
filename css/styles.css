@@ -10,6 +10,13 @@
   height: auto;
 }
 
+.responsive {
+  width: 100%;
+  max-height: 50px;
+  max-width: 50px;
+  height: auto;
+}
+
 .BUTTON_IXL {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
