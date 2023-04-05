@@ -37,13 +37,8 @@
 }
 
 .BUTTON_IXL:hover {
-   border: solid #337FED 1px;
-   background: #1E62D0;
-   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   background: #FF8300;
+   border: solid #DD380D 0;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
